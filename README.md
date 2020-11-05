@@ -23,7 +23,7 @@ Get grips on your algorithms and data structures.
 
 ### Someone: A book on theoretical computer science
 
-I don't have anything to recommend at the moment the one I have laying around is nothing I would recommend. But it pays to be able to _understand_ the problem you want to solve.
+I don't have anything to recommend at the moment. But it pays to be able to _understand_ the problem you want to solve.
 
 ### Tanenbaum: [Computer Networks](https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958/ref=sr_1_1?dchild=1&keywords=computer+networks&sr=8-1)
 
